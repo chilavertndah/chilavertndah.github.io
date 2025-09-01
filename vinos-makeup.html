@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vino's Makeup - Institut de Beauté</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <a href="#home" class="navbar-brand">
+            <img src="images/logo.png" alt="Vino's Makeup">
+        </a>
+        
+        <div class="btn btn-hamburger">
+            <div class="btn-click magnetic" data-strength="50" data-strength-text="25">
+                <div class="btn-fill"></div>
+                <div class="btn-text">
+                    <div class="btn-bars"></div>
+                    <span class="btn-text-inner">Menu</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="overlay fixed-nav-back"></div>
+    <div class="fixed-nav theme-dark">
+        <div class="fixed-nav-rounded-div">
+            <div class="rounded-div-wrap">
+                <div class="rounded-div"></div>
+            </div>
+        </div>
+        <div class="fixed-nav-inner">
+            <div class="row nav-row">
+                <h5>Navigation</h5>
+                <div class="stripe"></div>
+                <ul class="links-wrap">
+                    <li class="btn btn-link active">
+                        <a href="#home" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                            <span class="btn-text">
+                                <span class="btn-text-inner">Accueil</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="btn btn-link">
+                        <a href="#services" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                            <span class="btn-text">
+                                <span class="btn-text-inner">Services</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="btn btn-link">
+                        <a href="#galerie" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                            <span class="btn-text">
+                                <span class="btn-text-inner">Galerie</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="btn btn-link">
+                        <a href="#contact" class="btn-click magnetic" data-strength="24" data-strength-text="12">
+                            <span class="btn-text">
+                                <span class="btn-text-inner">Contact</span>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="row social-row">
+                <div class="stripe"></div>
+                <div class="socials">
+                    <h5>Réseaux</h5>
+                    <ul>
+                        <li class="btn btn-link btn-link-external">
+                            <a href="https://wa.me/229XXXXXXXX" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                <span class="btn-text">
+                                    <span class="btn-text-inner">WhatsApp</span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="btn btn-link btn-link-external">
+                            <a href="https://instagram.com/vinosmakeup" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                <span class="btn-text">
+                                    <span class="btn-text-inner">Instagram</span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="btn btn-link btn-link-external">
+                            <a href="mailto:contact@vinosmakeup.com" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                <span class="btn-text">
+                                    <span class="btn-text-inner">Email</span>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main>
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-content">
+            <div class="arc-text">
+                <svg viewBox="0 0 450 150" class="arc-svg">
+                    <path id="arc-path" d="M 75 120 Q 225 30 375 120" stroke="none" fill="none"/>
+                    <text>
+                        <textPath href="#arc-path" startOffset="50%" text-anchor="middle">
+                            Institut de beauté
+                        </textPath>
+                    </text>
+                </svg>
+            </div>
+            <h1 class="luxury-heading">
+                <span class="logo-text">
+                    Vin<span class="globe-container">
+                        <div class="digital-ball">
+                            <div class="overlay"></div>
+                            <div class="globe">
+                                <div class="globe-wrap">
+                                    <div class="circle"></div>
+                                    <div class="circle"></div>
+                                    <div class="circle"></div>
+                                    <div class="circle-hor"></div>
+                                    <div class="circle-hor-middle"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </span>'s Makeup
+                </span>
+            </h1>
+        </div>
+        
+        <div class="hero-gallery">
+            <div class="gallery-track">
+                <div class="gallery-item">
+                    <img src="assets/carrousel/vinos.jpg" alt="Maquillage professionnel">
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/carrousel/vinos1.JPG" alt="Soins du visage">
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/carrousel/formation.JPG" alt="Manucure">
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/carrousel/vinos2.JPG" alt="Formation maquillage">
+                </div>
+                <div class="gallery-item">
+                    <img src="assets/carrousel/formation2.JPG" alt="Massage relaxant">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Maquillage professionnel">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Soins du visage">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Manucure">
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-description">
+            <div class="description-track">
+                <span>Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • Le maquilleur des stars • </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Intro Section -->
+    <section class="section home-intro" data-scroll-section="">
+        <div class="container medium">
+            <div class="row">
+                <div class="flex-col">
+                    <h4 class="span-lines animate"><span class="span-line"><span class="span-line-inner">Révélez</span></span> <span class="span-line"><span class="span-line-inner">votre</span></span> <span class="span-line"><span class="span-line-inner">beauté</span></span> <span class="span-line"><span class="span-line-inner">naturelle</span></span> <span class="span-line"><span class="span-line-inner">avec</span></span> <span class="span-line"><span class="span-line-inner">nos</span></span> <span class="span-line"><span class="span-line-inner">soins</span></span> <span class="span-line"><span class="span-line-inner">d'exception.</span></span> <span class="span-line"><span class="span-line-inner">Ensemble</span></span> <span class="span-line"><span class="span-line-inner">nous</span></span> <span class="span-line"><span class="span-line-inner">créerons</span></span> <span class="span-line"><span class="span-line-inner">votre</span></span> <span class="span-line"><span class="span-line-inner">look</span></span> <span class="span-line"><span class="span-line-inner">parfait.</span></span></h4>
+                </div>
+                <div class="flex-col">
+                    <div class="text-wrap fade-in animate">
+                        <p>La combinaison de ma passion pour la beauté, le maquillage et les soins esthétiques me positionne comme votre partenaire idéal pour tous vos besoins beauté.</p>
+                    </div>
+                    <div class="btn btn-round">
+                        <a href="#services" class="btn-click magnetic" data-strength="100" data-strength-text="50">
+                            <div class="btn-fill"></div>
+                            <span class="btn-text">
+                                <span class="btn-text-inner change">À propos de Kevin Atchedji</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="section work-grid large-work-grid" data-scroll-section="">
+        <!-- Images hover qui suivent le curseur -->
+        <div class="mouse-pos-list-image no-select">
+            <div class="mouse-pos-list-image-bounce overlay">
+                <div class="float-image-wrap">
+                    <li class="mouse-pos-list-image-inner visible">
+                        <div class="overlay overlay-image" style="background-image: url('assets/carrousel/vinos.jpg');"></div>
+                    </li>
+                    <li class="mouse-pos-list-image-inner visible">
+                        <div class="overlay overlay-image" style="background-image: url('assets/carrousel/vinos1.JPG');"></div>
+                    </li>
+                    <li class="mouse-pos-list-image-inner visible">
+                        <div class="overlay overlay-image" style="background-image: url('assets/carrousel/vinos2.JPG');"></div>
+                    </li>
+                    <li class="mouse-pos-list-image-inner visible">
+                        <div class="overlay overlay-image" style="background-image: url('assets/carrousel/formation.JPG');"></div>
+                    </li>
+                </div>
+            </div>
+        </div>
+        <div class="mouse-pos-list-btn no-select"></div>
+        <div class="mouse-pos-list-span no-select"><p>Voir</p></div>
+        
+        <div class="container">
+            <div class="grid-sub-title">
+                <div class="flex-col">
+                    <h5>Nos Services</h5>
+                </div>
+            </div>
+            <ul class="work-items mouse-pos-list-image-wrap">
+                <li class="visible">
+                    <div class="stripe animate"></div>
+                    <a href="#contact" class="row">
+                        <div class="flex-col">
+                            <h4><span>Maquillage Professionnel</span></h4>
+                        </div>
+                        <div class="flex-col animate">
+                            <p>Événements & Mariages</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="visible">
+                    <div class="stripe animate"></div>
+                    <a href="#contact" class="row">
+                        <div class="flex-col">
+                            <h4><span>Soins du Visage</span></h4>
+                        </div>
+                        <div class="flex-col animate">
+                            <p>Nettoyage & Hydratation</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="visible">
+                    <div class="stripe animate"></div>
+                    <a href="#contact" class="row">
+                        <div class="flex-col">
+                            <h4><span>Manucure & Nail Art</span></h4>
+                        </div>
+                        <div class="flex-col animate">
+                            <p>Soins des Ongles</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="visible">
+                    <div class="stripe animate"></div>
+                    <a href="#contact" class="row">
+                        <div class="flex-col">
+                            <h4><span>Formation Maquillage</span></h4>
+                        </div>
+                        <div class="flex-col animate">
+                            <p>Cours & Apprentissage</p>
+                        </div>
+                    </a>
+                </li>
+                <div class="stripe last animate"></div>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Galerie simple avec grille -->
+    <section id="galerie" class="section" data-scroll-section="">
+        <div class="container">
+            <div class="grid-sub-title">
+                <div class="flex-col">
+                    <h5>Nos Réalisations</h5>
+                </div>
+            </div>
+            <div class="simple-gallery">
+                <div class="gallery-row">
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Maquillage">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Soins">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Nail Art">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Formation">
+                    </div>
+                </div>
+                <div class="gallery-row">
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Beauté">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Artistique">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Soins visage">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Produits">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Button Section -->
+    <section class="section center-grid-btn center-grid-btn-home" data-scroll-section="">
+        <div class="container">    
+            <div class="grid-after-btn">
+                <div class="btn btn-normal">
+                    <a href="#contact" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                        <div class="btn-fill"></div>
+                        <span class="btn-text">
+                            <span class="btn-text-inner change">Voir plus de réalisations</span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer avec design arrondi de Denis -->
+    <!-- Footer exact de Denis -->
+    <div class="footer-rounded-div" data-scroll-section="">
+        <div class="rounded-div-wrap" style="height: 72px;">
+            <div class="rounded-div"></div>
+        </div>
+    </div>
+    <div class="footer-wrap footer-footer-wrap theme-dark" data-scroll-section="">
+        <footer id="contact" class="section footer" data-scroll-speed="-4">
+            <div class="container medium">
+                <div class="row">
+                    <div class="flex-col">
+                        <div class="arrow">
+                            <svg width="14px" height="14px" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+                                <g stroke="#FFFFFF" stroke-width="1.5" fill="none">
+                                    <polyline points="2.76923077 0 12 0 12 9.23076923" />
+                                    <line x1="12" y1="0" x2="0" y2="12" />
+                                </g>
+                            </svg>
+                        </div>
+                        <h2><span>Prenons</span> <span>rendez-vous</span></h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="flex-col">
+                        <div class="stripe"></div>
+                        <div class="btn-fixed">
+                            <div class="btn btn-round">
+                                <a href="https://wa.me/229XXXXXXXX" class="btn-click magnetic" data-strength="100" data-strength-text="50" target="_blank">
+                                    <div class="btn-fill"></div>
+                                    <span class="btn-text">
+                                        <span class="btn-text-inner">Contactez-nous</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="flex-col">
+                        <div class="btn btn-normal">
+                            <a href="mailto:contact@vinosmakeup.com" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                                <div class="btn-fill"></div>
+                                <span class="btn-text">
+                                    <span class="btn-text-inner change">contact@vinosmakeup.com</span>
+                                </span>
+                            </a>
+                        </div>
+                        <div class="btn btn-normal">
+                            <a href="tel:+229XXXXXXXX" class="btn-click magnetic" data-strength="25" data-strength-text="15">
+                                <div class="btn-fill"></div>
+                                <span class="btn-text">
+                                    <span class="btn-text-inner change">+229 XX XX XX XX</span>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container no-padding">
+                <div class="row bottom-footer">
+                    <div class="flex-col">
+                        <div class="credits">
+                            <h5>Version</h5>
+                            <p>2024 © Vino's Makeup</p>
+                        </div>
+                        <div class="time">
+                            <h5>Heure locale</h5>
+                            <p><span id="timeSpan">--:-- --</span></p>
+                        </div>
+                        <div class="developer">
+                            <h5>Développeur</h5>
+                            <p><a href="https://chilavertndah.me/" target="_blank">Chilavert N'Dah</a></p>
+                        </div>
+                    </div>
+                    <div class="flex-col">
+                        <div class="socials">
+                            <h5>Réseaux</h5>
+                            <ul>
+                                <li class="btn btn-link btn-link-external">
+                                    <a href="#" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                        <span class="btn-text">
+                                            <span class="btn-text-inner">Instagram</span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="btn btn-link btn-link-external">
+                                    <a href="#" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                        <span class="btn-text">
+                                            <span class="btn-text-inner">Facebook</span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="btn btn-link btn-link-external">
+                                    <a href="#" target="_blank" class="btn-click magnetic" data-strength="20" data-strength-text="10">
+                                        <span class="btn-text">
+                                            <span class="btn-text-inner">WhatsApp</span>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="stripe"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="scripts/jquery.ripples-min.js"></script>
+    
+    <script src="assets/scripts.js"></script>
+    </main>
+</body>
+</html>

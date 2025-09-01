@@ -1,0 +1,1032 @@
+
+
+
+
+	
+	
+		
+			Loading...
+		
+	
+	
+
+    
+
+		
+			
+
+				Aditya
+					
+				
+
+				
+					
+				
+
+				
+					
+						Home
+						Skills
+						Experience
+						Projects
+						Recommendations
+						Contact
+					
+				
+			
+		
+
+				
+    	
+    		
+    			
+	    			Hello, I am
+	 	   			Aditya Seth
+
+ 	   			
+ 	   		
+    		
+    	
+
+		
+		
+
+			
+
+				
+					
+					
+						
+							
+								About Me
+								I’m a SWE @ TBAI, driven by an endless curiosity for solving complex problems. My journey in tech spans competitive programming (Knight @ LeetCode), applied cryptography, and cloud/ML engineering—certified in Google ACE, Microsoft Azure (DP100, AZ900, AI900, SC900), and AI fundamentals. What excites me most is turning theory into scalable, secure systems that make an impact.
+
+									Beyond code, I thrive in building communities. As a Google Developer Groups Lead and Postman Kolkata Co-Lead, I’ve helped hundreds of developers learn, collaborate, and innovate. Being a Gold Microsoft Learn Student Ambassador has deepened my mission—to democratize tech education and empower the next generation of engineers.
+																		
+									Let’s connect if you’re passionate about tech, big ideas, or just great coffee!
+							
+							
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							
+
+						
+					
+
+					
+						
+					
+
+				
+
+			
+
+		
+		
+
+		
+		
+			
+				
+					WHAT I DO
+					Skills
+				
+
+				
+					
+						
+							
+								
+									
+										DevOps
+									
+								
+								
+									
+										
+											
+										
+										
+											DevOps
+											DevOps integrates and automates the work of software development and IT operations as a means for improving and shortening the SDLC.
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Competitive Coding
+									
+								
+								
+									
+										
+											
+										
+										
+											Competitive Coding
+											Currently a Knight on LeetCode (top 2.62%) and a 5-star on CodeChef
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Back-end Development
+									
+								
+								
+									
+										
+											
+										
+										
+											Back-end App Development
+											I have started with App Dev just a couple months ago. I mostly work on the back-end but I am going to learn front-end as well very soon.
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										GNU/Linux
+									
+								
+								
+									
+										
+											
+										
+										
+											Linux
+											I just love Linux. I have used many distros like Kali, BlackArch, Elementary OS, Manjaro, Nitrux and ofcourse Ubuntu. I work mainly on Linux and on Windows partly, should the need arises :) 
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Cryptanalysis
+									
+								
+								
+									
+										
+											
+										
+										
+											Cryptanalysis
+											I participated in the cryptography competitions organised by the coding club of my college. Since then I have practiced it and various other forms such as Steganography, Polyalphabetic Substitution Cipher, etc.
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Photography and Graphic Editing
+									
+								
+								
+									
+										
+											
+										
+										
+											Photography and Graphic Editing
+											I love to click photographs and graphic designing. My most used softwares include Adobe Photoshop, Snapseed and Lightroom. Although, my favourite way to spend time is by listening to music.
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Languages
+									
+								
+								
+									
+										
+											
+										
+										
+											Languages
+											I can speak English, Hindi and Bengali, and can also communicate in Spanish with moderate working proficiency. I have a C1 Advanced Score in English On EF SET. I have also written articles on various topics. Wanna take a look?
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										Public Speaking & Hosting
+									
+								
+								
+									
+										
+											 
+										
+										
+											Hosting
+											I have hosted various events at my college for IIC.
+												Wanna see ? 
+												I also host technical workshops as a part of my being a Beta Microsoft LSA.
+											
+										
+									
+								
+							
+						
+					
+					
+						
+							
+								
+									
+										I do much more ...
+									
+								
+								
+									
+										
+											
+										
+										
+											I do much more ...
+											That is certainly not all, I have a lot more interests and I love to do a lot more stuff. Want to know about my activity? Visit my LinkedIn
+										
+									
+								
+							
+						
+					
+				
+			
+		
+		
+
+		
+		
+			
+				
+					My Resume
+					Education & Experience
+				
+
+				
+					
+						 My Education
+						
+							
+								BTech (Hons) - Computer Science and Engineering
+								Techno Main Salt Lake (TMSL) | 2021 - 2025
+								Serving as Technical Lead of IIC-TMSL (entrepreneurship cell) and Eclectica Literary Club, I architected 15+ tech initiatives while managing cross-functional teams. As GDG On-Campus TMSL Lead (previously GDSC), I scaled the developer community to 1950+ members through hands-on workshops on Cloud, AI and DevOps. Led CurBrain, the institute’s official competitive coding hub, hosting 8 hackathons with 300+ participants. Concurrently maintained campus discipline as Anti-Ragging Squad Lead, demonstrating dual expertise in technical leadership and operational governance.From hackathons to campus initiatives, I've learned that real innovation happens when technology meets human impact - a lesson I carry into every line of code I write.Allons-y!
+							
+						
+						
+							
+								Sophomore
+								Vivekananda Academy (CBSE) | 2019 - 2021
+								That quiet library period spent teaching myself Python from MIT OCW? It sparked everything. My 93.4% in PCMB wasn’t just grades – it was the discipline that now lets me thrive in both LeetCode contests and system design reviews.
+							
+						
+						
+							
+								Freshman
+								HM Education Centre (CBSE) | 2009 - 2019
+								Turns out, winning art competitions trained my eye for detail – now I spot edge cases in code as instinctively as I once mixed paints. My 93.8% and medals were early signs: I’m wired to build, whether it’s canvases or cloud architectures.
+							
+						
+					
+
+
+					
+						My Experience
+						
+							
+								SWE Intern
+								April 2024 - Present | Techno Billion AI
+								Spearheaded AI-powered full-stack development (TBAI, CrewConnect), designed scalable cloud architectures on GCP/Kubernetes, and automated CI/CD pipelines with monitoring (Prometheus/Grafana). Led cross-functional teams while owning end-to-end backend solutions.
+							
+						
+						
+						
+							
+								Freelancing Software Dev
+								Oct 2022 - Sep 2024 | DevOps with Web-dev
+								As a freelance full-stack developer and cloud architect, I've delivered high-performance solutions for global clients using cutting-edge technologies across the stack - from building responsive frontends (Next.js/SvelteKit) and scalable backends (NestJS/Elixir/Python) to designing cloud-native architectures (GCP/Azure/AWS) with Kubernetes, Terraform, and CI/CD pipelines. My expertise extends to implementing real-time systems (GraphQL/gRPC/WebSockets), securing infrastructures (Istio/Vault/Falco), developing AI applications (TensorFlow/PyTorch), and optimizing data pipelines (Kafka/Flink), always ensuring robust, production-ready solutions with full observability (Prometheus/Grafana) and security compliance.
+							
+						
+						
+							
+								Technical Content Architect
+								Jan 2024 - Apr 2024 | GotoGrowth Pvt. Ltd.
+								Spearheaded content development across digital platforms, creating data-driven, engaging materials. Also, ensured content quality through market analysis, aligning with brand voice and industry insights.
+							
+						
+						
+					
+				
+
+				
+					
+						Communities
+
+
+						
+							
+								Postman Community Kolkata
+								Jan 2025 - Present | Volunteer and Community Member
+								As Co-Organizer of Postman Community Kolkata, I build collaborative developer ecosystems through impactful API workshops and community-driven learning initiatives.
+							
+						
+
+						
+							
+								GDG Cloud Kolkata
+								May 2023 - Present | Volunteer and Community Member
+								Conducted offline events comprising of a total of 6000+ attendees, and more.
+							
+						
+						
+							
+								TensorFlow User Group Kolkata
+								Aug 2023 - Present | Volunteer and Community Member
+								Organized Gen-AI ML events, reaching over 400+ developers.
+							
+						
+
+						
+							
+								CNCF Hooghly
+								Aug 2023 - Apr 2024 | Core Organising Team and Tech Team Member
+								Organised events reaching a total of 100+ devs. Contributing to this community through projects.
+							
+						
+						
+						
+							
+								Microsoft
+								Oct 2022 - Present | Gold LSA
+								Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical & career skills for the future.
+							
+						
+
+						
+							
+								GDG On-Campus TMSL
+								Nov 2022 - Present | Campus Lead
+								From DevOps Member to Lead Organizer at GDG On-Campus TMSL, I've spearheaded Google Cloud Study Jams and earned my ACE certification while mentoring teams. Now leading multiple hybrid projects, I combine technical cloud expertise with hands-on community leadership to drive impactful Ed-Tech initiatives.
+							
+						
+
+						
+							
+								GeeksforGeeks
+								Sep 2022 - Oct 2023 | Campus Representative
+								GFG Campus Representative dedicated to promoting tech knowledge and fostering a thriving campus tech community.
+							
+						
+					
+					
+						 Coding Skills
+						
+
+							
+
+
+
+    CockroachDB / YugabyteDB / MongoDB
+    
+        
+    
+
+
+
+    Google Cloud SQL
+    
+        
+    
+
+
+
+
+    Apache Kafka
+    
+        
+    
+
+
+
+    Apache Flink
+    
+        
+    
+
+
+
+
+    Cryptography (AES, RSA, Steganography)
+    
+        
+    
+
+
+
+    OAuth 2.0 / JWT / Keycloak
+    
+        
+    
+
+
+
+    Falco / Vault
+    
+        
+    
+
+
+
+
+    PyTorch
+    
+        
+    
+
+
+
+    TensorFlow
+    
+        
+    
+
+
+
+    OpenCV
+    
+        
+    
+
+
+
+
+    Docker / Kubernetes (Istio, Linkerd)
+    
+        
+    
+
+
+
+    GCP / AWS / Azure
+    
+        
+    
+
+
+
+    Terraform / Pulumi
+    
+        
+    
+
+
+
+    GitHub Actions / ArgoCD
+    
+        
+    
+
+
+
+    Prometheus / Grafana
+    
+        
+    
+
+
+
+
+    Django / FastAPI / Flask
+    
+        
+    
+
+
+
+    NestJS / Hapi.js / Spring Boot / Phoenix
+    
+        
+    
+
+
+
+
+    REST / GraphQL (Apollo, Hasura) / gRPC / WebSockets
+    
+        
+    
+
+
+
+
+    Flutter (Cross-platform)
+    
+        
+    
+
+
+
+    Kotlin (Android Native)
+    
+        
+    
+
+
+
+
+    Next.js / React / SvelteKit / HTML / CSS
+    
+        
+    
+
+
+
+
+    Python / JavaScript / TypeScript / C/C++ / PHP / Java / Kotlin / Dart / Elixir / Carbon
+    
+        
+    
+
+
+
+
+    Linux Shell Scripting
+    
+        
+    
+
+
+
+						
+					
+				
+						
+			
+		
+		
+
+
+		
+			   
+				
+					Achievments
+					My Projects
+				                 
+				
+					
+						
+
+
+							
+							
+								
+								
+									
+										Kryptos
+										Blockchain Messaging
+									
+								
+							
+							
+								Welcome to the revolutionary messaging platform powered by blockchain technology! With support for more than 224+ crypto wallets such as Phantom, Metamask, Coinbase, and more, Kryptos ensures secure, decentralized communication like never before.
+								React, TypeScript, XMTP
+							
+						
+
+						
+						
+							
+							
+								
+									Kryptos
+									Blockchain Messaging
+								
+							
+						
+						
+							A privacy-first, local-only security dashboard designed for real-time monitoring of Kubernetes clusters.
+								Powered by eBPF and Cilium, it ensures all security metrics and data remain strictly within your infrastructure.
+								It provides deep visibility into network flows.
+							NextJs, TypeScript, Kubernetes, eBPF, Cillium
+						
+					
+
+
+
+							
+							
+								
+								
+									
+										WorkX
+										Freelancer Job Portal
+									
+								
+							
+							
+								WorkX is a full-stack job platform for freelancers and businesses, built with Django and React, integrating Google Firebase, JWT, DRF APIs, Elasticsearch for advanced search, PostgreSQL for data storage, and AWS for scalable deployment.
+								React, Django, PostgreSQL, AWS
+							
+						
+
+						
+						
+							
+							
+								
+									Audio-SpectraCLI
+									Real-time FFT Spectrum Viewer
+								
+							
+						
+						
+							AudioSpectraCLI offers real-time FFT visualization of audio input, with customizable parameters (duration, sampling rate, block size, and frequency range). It features PyQt5 modules, Gaussian filtering, and a dynamic user-controlled interface.
+							React, Django, PostgreSQL, AWS
+						
+					
+
+							
+								
+									
+									
+										
+											PymPay
+											Online Banking Software
+										
+									
+								
+								
+									PymPay is a web-based application that allows users to perform various banking operations such as deposit, withdraw, transfer, and check balance. The application has separate access for admin, client, and staff roles with real-time database updation.
+									JavaScript, PHP
+								
+							
+
+							
+								
+									
+									
+										
+											Microsoft Aurora
+											Website for Microsoft LSA event
+										
+									
+								
+								
+									 I led and collaborated with a team of 2 developers and built this website for the upcoming
+Microsoft event scheduled to be held in Kolkata, West Bengal. It is a dynamic webpage and Townscript API built into it for the online paid registrations.
+									HTML, CSS, Js
+								
+							
+
+							
+								
+									
+									
+										
+											Envisage TMSL
+											Dynamic Event Website for 2023-24
+										
+									
+								
+								
+									Envisage is the official E-Summit of Techno Main Salt Lake. It was the platform for budding entrepreneurs to showcase
+									the power of their ideas and to be appreciated and mentored by the best in the fields. I was the Project Leader
+									here, leading a team of 6 students.
+									Next Js, Tailwind CSS
+								
+							
+							
+							
+								
+									
+									
+										
+											IIC Website
+											Official Website v2.1
+										
+									
+								
+								
+									It is the official website of IIC TMSL, the official e-cell by the Ministry of Human Resource Development (MHRD), Govt. of
+									India, for fostering higher academic and entrepreneurial knowledge. Features include: Dark Mode, Dynamic Webpages, and more. 
+									Website - Next Js, Tailwind CSS
+								
+							
+							
+								
+									
+									
+										
+											2048 Game
+											Project for Google Hackathon
+										
+									
+								
+								
+									This was an app building hackathon organised by GDSC TMSL. I participated in it and built the 2048 game which is quite popular. I participated in the Hackathon under the name of "Abstract-Connoisseurs", since we were instructed to pick unique names.
+									Android - Kotlin
+								
+							
+
+							
+								
+									
+									
+										
+											Twitter Master-Bot
+											Project for Google DG CCD Hackathon 2022
+										
+									
+								
+								
+									Twitter-Bot is an automation bot using built using Tweepy. This replaces the use of Twitter API as it is costly and takes much time to get access to. You can use it to post tweets, retweet based on hashtags and like tweets on the homepage or like tweets based on hashtags.
+									Python
+								
+							
+
+							
+						
+
+						
+						
+						
+					
+				
+			
+		
+
+
+
+		
+		
+			
+				
+					:)
+					Recommendations
+				
+				
+					
+						
+							
+								
+									
+										
+										“Aditya is a very self-organized person who likes to solve problems and actively take part in everything that revolves around tech. He is also very helpful and makes a very good team member. Can handle tasks and responsibilities very tackfully as well as tries to overdeliver on the given tasks.”
+										Sabyasachi Seal  DevOps Lead, Google DSC | Ex-SDE Intern, WebKnot Tech
+									
+								
+								
+
+								
+									
+										
+										“Aditya is not only good at all things technical, but his creativity and sense of innovation are what impress people the
+										most. Working with him was a delight because his level of attention to detail is unmatched! I've never seen him shy away
+										from a challenge. He is always up for going the extra mile and reach goals as promised. Other than that, his clear sense
+										of recent technologies and tech stacks makes him a great asset. Aditya ensures that he puts in proper planning and
+										resources to achieve the promised end goal.”
+										Ayushi Dey  SDE @ Thoughtworks, Ex-Convenor - IIC TMSL
+									
+								
+
+								
+									
+										
+										“I have worked with Aditya over several projects. Aditya is very goal oriented and hard working. He loves to solve
+										problems and try different approaches to solve the problem efficiently. He possess good team spirit and strong
+										leadership skills. Aditya gives his heart to any project and delivers everytime up to the mark.”
+										Vivek Kr. Agarwal SDE @ LTIMindtree, Ex-Convenor - CIIC Geekonix
+									
+								
+
+								
+									
+										
+										“I have worked with many professionals throughout my journey, but Aditya was a unique one to work. I started my work journey with him, and he helped me understand the company’s internal process. His work ethics are pristine, and he is easily adjustable to a given situation. His ability to go out of his way to help others has made him stand out. Thanks a lot, man! You made the transition smooth and more comfortable. He is the most profound person I have met, and his ability to tackle any problem is remarkable and with a warm smile. Aditya would become an appreciated member of any team.”
+										Sreejita Mukhopadhyay  Graphic Lead @ IIC TMSL and Eclectica TMSL
+									
+								
+
+				
+
+
+							
+							
+						
+
+						
+							
+							
+						
+
+					
+				
+			
+		
+		
+
+		
+		
+			
+				
+					
+						
+							Let's work together!
+						
+						
+							Here's my CV
+						
+					
+				
+			
+		
+		
+
+		
+
+		
+		
+			
+				
+					Reach out to me
+					Contact 
+				
+
+				
+					 My Location
+					←Déplacement vers la gauche→Déplacement vers la droite↑Déplacement vers le haut↓Déplacement vers le bas+Zoom avant-Zoom arrièreAccueilDéplacement de 75 % vers la gaucheFinDéplacement de 75 % vers la droitePage précédenteDéplacement de 75 % vers le hautPage suivanteDéplacement de 75 % vers le basRaccourcis clavierDonnées cartographiquesDonnées cartographiques ©2025Données cartographiques ©20252 km Cliquez pour basculer entre les unités métriques et impérialesConditions d'utilisationSignaler une erreur cartographiqueImpossible de charger Google Maps correctement sur cette page.Ce site Web vous appartient ?OK
+				
+			
+
+			
+				
+					
+						 Get in Touch
+						
+							
+								
+									
+										
+									
+									
+										My Latest Articles
+										Blog
+									
+								
+							
+							
+								
+									
+										
+									
+									
+										@adityaseth777
+										Feel free to DM
+									
+								
+							
+							
+								
+									
+										
+									
+									
+										contact@adityaseth.in
+										Email Me
+									
+								
+							
+						
+					
+					
+						
+						
+							 Contact Form
+							
+								
+									
+										
+									
+								
+								
+									
+										
+									
+								                                
+							
+							
+								
+									
+										
+									
+								
+							
+							
+								
+									
+										
+									
+								
+							
+							
+								
+									Send
+								
+							
+						
+					
+				
+			
+		
+		
+
+		
+		
+			
+				©  All rights reserved | This website is developed  by Aditya Seth
+			
+		
+		
+	
+
+
+	
+
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+
+	$('#home').ripples({
+	    resolution: 500,
+	    dropRadius: 20,
+	    perturbance: 0.04
+	});
+
+    
+
+
+
