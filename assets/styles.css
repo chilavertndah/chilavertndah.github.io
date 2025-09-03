@@ -779,7 +779,7 @@ html, body {
 /* Hero Section */
 .hero-section {
     height: 100vh;
-    background: url('https://i.postimg.cc/Z5vBSRMk/banner.jpg');
+    background: url('https://i.postimg.cc/vmPxB5vT/vinos1.jpg');
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
@@ -795,7 +795,7 @@ html, body {
 
 @media screen and (max-width: 1024px) {
     .hero-section {
-        background-image: url('https://i.postimg.cc/Y08ghs1J/banner1.jpg');
+        background-image: url('https://i.postimg.cc/VkqjYST0/vinos11.jpg');
         background-size: cover;
         background-position: right center;
     }
